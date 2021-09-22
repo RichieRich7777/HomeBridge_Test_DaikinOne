@@ -3,9 +3,6 @@ src
 
 # ------------- Defaults ------------- #
 
-# gitHub actions
-.github
-
 # eslint
 .eslintrc
 
